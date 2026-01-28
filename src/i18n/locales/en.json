@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home",
+    "results": "Results",
+    "robot": "Our Robot",
+    "team": "Team",
+    "contact": "Contact",
+    "private": "Private Photos"
+  },
+  "launch": {
+    "title": "LLA Robotique",
+    "subtitle": "Innovation • Creativity • Excellence",
+    "loading": "Loading..."
+  },
+  "home": {
+    "title": "Welcome to LLA Robotique",
+    "subtitle": "Join us in an exciting technological adventure",
+    "cta": "Discover",
+    "about": {
+      "title": "About",
+      "description": "LLA Robotique is a passionate club dedicated to robotic innovation. We combine creativity, technical skills and team spirit to create exceptional robots."
+    },
+    "why": {
+      "title": "Why Join Us?",
+      "items": {
+        "1": "Hands-on robotics learning",
+        "2": "Competition participation",
+        "3": "Technical skills development",
+        "4": "Team spirit and camaraderie"
+      }
+    },
+    "stats": {
+      "title": "Our Achievements",
+      "competitions": "Competitions",
+      "awards": "Awards",
+      "members": "Members",
+      "projects": "Projects"
+    }
+  },
+  "results": {
+    "title": "Our Results",
+    "subtitle": "Discover our accomplishments from the last two years",
+    "year1": "Year 2022-2023",
+    "year2": "Year 2023-2024",
+    "competition": "Competition",
+    "position": "Position",
+    "award": "Award",
+    "description": "Description"
+  },
+  "robot": {
+    "title": "Our Robot",
+    "subtitle": "Discover the technology behind our creation",
+    "specs": {
+      "title": "Technical Specifications",
+      "dimensions": "Dimensions",
+      "weight": "Weight",
+      "sensors": "Sensors",
+      "actuators": "Actuators",
+      "power": "Power",
+      "control": "Control"
+    },
+    "features": {
+      "title": "Features",
+      "autonomous": "Autonomous navigation",
+      "precision": "High precision",
+      "adaptability": "Adaptability",
+      "speed": "Optimized speed"
+    }
+  },
+  "private": {
+    "title": "Private Photos",
+    "subtitle": "Access restricted to members",
+    "password": "Password",
+    "enter": "Enter",
+    "error": "Incorrect password",
+    "placeholder": "Enter password"
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "contrast": "High contrast",
+    "fontSize": "Font size",
+    "reduceMotion": "Reduce animations"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "made": "Made with ❤️ by LLA Robotique"
+  }
+}
+
